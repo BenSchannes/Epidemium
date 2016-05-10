@@ -1,5 +1,5 @@
 
-REGRESSOR
+# REGRESSOR
 
 from sklearn.base import BaseEstimator
 from sklearn.pipeline import make_pipeline
